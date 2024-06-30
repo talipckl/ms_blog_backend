@@ -68,7 +68,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Composer Install
 composer install
 
-## Composer Install
+## JWT Secret 
 php artisan jwt:secret
 
 ## Migrate And Seeder
